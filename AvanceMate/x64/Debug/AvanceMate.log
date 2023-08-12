@@ -1,0 +1,39 @@
+﻿  PIA MVII.cpp
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(176,44): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(243,24): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(285,44): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(369,44): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(851,17): warning C4244: '=': conversión de 'float' a 'char'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(860,17): warning C4244: '=': conversión de 'float' a 'char'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(869,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(870,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(874,65): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1091,87): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1092,87): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1093,87): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1106,19): warning C4244: 'inicializando': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1158,78): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1159,78): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1160,78): warning C4244: '=': conversión de 'int' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1240,46): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1390,62): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1393,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1394,43): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1400,83): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1403,143): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1407,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1408,47): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1411,97): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1415,140): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1419,83): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1520,15): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1531,13): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1534,67): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1616,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1616,66): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1617,26): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1617,67): warning C4244: '=': conversión de 'double' a 'float'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1828,39): warning C4244: 'argumento': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1744,11): warning C4101: 'result2': variable local sin referencia
+C:\Users\aldor\source\repos\AvanceMate\AvanceMate\PIA MVII.cpp(1479,54): warning C4101: 'Rad': variable local sin referencia
+  AvanceMate.vcxproj -> C:\Users\aldor\source\repos\AvanceMate\x64\Debug\AvanceMate.exe
